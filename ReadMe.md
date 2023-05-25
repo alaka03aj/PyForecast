@@ -3,7 +3,7 @@
 ## Made for GitHub Copilot Hackathon
 
 ## Description
-This is a simple weather forecasting tool that uses the OpenWeatherMap API to retrieve weather data for a given city. The tool will display the current weather conditions, as well as a 5-day forecast. The tool will also display a graph of the temperature and humidity for the next 5 days.
+This is a simple weather forecasting tool that uses the OpenWeatherMap API to retrieve weather data for a given city.
 
 ## Installation
 To install the tool, simply clone the repository and run the following command in the terminal:
@@ -22,7 +22,7 @@ This tool can be used to retrieve weather data for any city in the world. It can
 
 ## Credits
 - The tool uses the [OpenWeatherMap API](https://openweathermap.org/api) to retrieve weather data for a given city.
-- The tool uses the [Matplotlib](https://matplotlib.org/) library to display a graph of the temperature and humidity for the next 5 days.
+<!-- - The tool uses the [Matplotlib](https://matplotlib.org/) library to display a graph of the temperature and humidity for the next 5 days. -->
 - The tool uses the [Requests](https://docs.python-requests.org/en/master/) library to make HTTP requests to the OpenWeatherMap API.
 
 ## Team Name - Girl Boss
