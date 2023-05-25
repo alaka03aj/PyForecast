@@ -8,7 +8,7 @@ This is a simple weather forecasting tool that uses the OpenWeatherMap API to re
 ## Tools Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Requests](https://img.shields.io/badge/requests-3670A0?style=for-the-badge&logo=requests&logoColor=ffdd54)
-![OpenWeatherMap](https://img.shields.io/badge/openweathermap-3670A0?style=for-the-badge&logo=openweathermap&logoColor=ED8B00)
+![OpenWeatherMap](https://img.shields.io/badge/openweathermap-ED8B00?style=for-the-badge&logo=openweathermap&logoColor=ffdd54)
 <!-- ![Matplotlib](https://img.shields.io/badge/matplotlib-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
 ## Installation
