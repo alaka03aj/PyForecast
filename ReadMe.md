@@ -39,12 +39,12 @@ This tool can be used to retrieve weather data for any city in the world. It can
 
 ## Credits
 - [OpenWeatherMap API](https://openweathermap.org/api) to retrieve weather data for a given city.
-<!-- - The tool uses the [Matplotlib](https://matplotlib.org/) library to display a graph of the temperature and humidity for the next 5 days. -->
 - [Requests](https://docs.python-requests.org/en/master/) library to make HTTP requests to the OpenWeatherMap API.
 - [JSON](https://docs.python.org/3/library/json.html) library to parse the JSON data retrieved from the OpenWeatherMap API.
 - [Datetime](https://docs.python.org/3/library/datetime.html) library to convert the UNIX timestamp to a readable date and time.
 - [Sys](https://docs.python.org/3/library/sys.html) library to retrieve the city name from the command line arguments.
 - [Github Copilot](https://copilot.github.com/) to help with the code.
+<!-- - The tool uses the [Matplotlib](https://matplotlib.org/) library to display a graph of the temperature and humidity for the next 5 days. -->
 
 ## Team Name - Girl Boss
 ### Team Members
